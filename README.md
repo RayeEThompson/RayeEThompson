@@ -1,5 +1,4 @@
 <div>
-<img src="https://github.com/RayeEThompson/RayeEThompson/blob/main/images/Dev-Sticker-Contributor.png?raw=true" width="100" >
 <img src="https://github.com/RayeEThompson/RayeEThompson/blob/main/images/Dev-Sticker-Rocket.png?raw=true" width="150" >
 <img src="https://github.com/RayeEThompson/RayeEThompson/blob/main/images/Dev-Shirt-Artwork.png?raw=true" width="150" >
 </div>
