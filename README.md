@@ -1,6 +1,8 @@
 <img src="https://github.com/RayeEThompson/RayeEThompson/blob/main/images/bigrocketbg.png?raw=true" width="vw" >
+
 # 👋🏻 Hi, I'm Raye
 ## A Developer Advocate at BigCommerce
+
 <img src="https://github.com/RayeEThompson/RayeEThompson/blob/main/images/bcdevbg.png?raw=true" width="vw" >
 
 <!--
